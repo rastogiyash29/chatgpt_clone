@@ -19,7 +19,8 @@ https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/5574d097-5aeb-4d
 <img src="https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/58a944ba-3cc4-4b42-a719-0e4e5d70c1db" width="300" height="600"><br><br>
 
 **2. Drawer**<br>
-<img src="https://github.com/rastogiyash29/basic_video_player/assets/105515175/c053668b-c43d-4ddf-9595-33dedb4ec16b" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/ed72e5d7-8a4b-484e-86d3-c2f45e56cfb6" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/8d373718-890a-4aec-9b5b-b957f32029fa" width="300" height="600"><br><br>
 
 ## Getting Started
 Note: Login to ChatGPT and get your own API key to use this app.
