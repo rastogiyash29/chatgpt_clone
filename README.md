@@ -10,8 +10,13 @@ https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/5574d097-5aeb-4d
 
 ## Screenshots
 **1. Chat Screen**<br>
-<img src="https://github.com/rastogiyash29/basic_video_player/assets/105515175/35bdccae-fe8c-4e1a-b714-1883a524fd18" width="300" height="600"><br><br>
-<img src="https://github.com/rastogiyash29/basic_video_player/assets/105515175/2995711a-3604-4330-b787-82b59308e6af" width="300" height="600"><br><br>
+
+<img src="https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/09cb3bbb-6003-4fa3-84fc-3650e3a704b7" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/614e75f3-908a-4ef5-aea6-fbbfa833444c" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/06d4cb2a-112d-4da4-ab40-1b78ce9e4f83" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/8ca1ccc8-6752-4838-8320-b8aed0b8ebd3" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/7505aa47-14e2-43ba-86c4-98b0db612e54" width="300" height="600"><br><br>
+<img src="https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/58a944ba-3cc4-4b42-a719-0e4e5d70c1db" width="300" height="600"><br><br>
 
 **2. Drawer**<br>
 <img src="https://github.com/rastogiyash29/basic_video_player/assets/105515175/c053668b-c43d-4ddf-9595-33dedb4ec16b" width="300" height="600"><br><br>
