@@ -6,7 +6,7 @@ I am attaching screenshots and a screen recording of the app below:
 
 ## Screen-recording
 
-https://github.com/rastogiyash29/basic_video_player/assets/105515175/65039922-01ae-4a7c-b76e-aecaa69168b3
+https://github.com/rastogiyash29/chatgpt_clone/assets/105515175/5574d097-5aeb-4dd7-9fe0-7690deee3b74
 
 ## Screenshots
 **1. Chat Screen**<br>
